@@ -9,6 +9,7 @@ how to strcuture the website:
     vi.06_Video_Generation.py
     vii.07_Bookings.py
     viii.08_Settings.py
+    ix.06_Saved_itineraries.py
 3. Inside the .streamlit folder, add the api keys in a file called secrets.toml needed for running the program
 
 i.e.
