@@ -6,7 +6,7 @@ how to strcuture the website:
     iii.03_Calendar_and_Weather.py
     iv.04_Itinerary_Generation.py
     v.05_Trip_Preview.py
-    vi.06_Saved_Itineraries.py
+    vi.06_Video_Generation.py
     vii.07_Bookings.py
     viii.08_Settings.py
 3. Inside the .streamlit folder, add the api keys in a file called secrets.toml needed for running the program
